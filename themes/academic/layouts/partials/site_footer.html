@@ -11,6 +11,14 @@
   </p>
   {{ end }}
 
+  {{if site.Params.CompanyInfo}}
+  <p class="float-left" style="text-align: justify;">
+    {{ site.Params.CompanyRegistration }} <br/>
+    {{ site.Params.CompanyNumber }} <br/>
+    {{ site.Params.CompanyVAT }}
+  </p>
+  {{end}}
+
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} {{ end }}
 

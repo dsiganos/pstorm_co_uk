@@ -46,6 +46,12 @@ org_name = ""
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
 
+# Add company info. Add true to activate.
+CompanyInfo = "true"
+CompanyRegistration = "Registered in England and Wales."
+CompanyNumber = "Company number: 06018812"
+CompanyVAT = "VAT number: 898727836"
+
 ############################
 ## Site Features
 ############################
