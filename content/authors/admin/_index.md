@@ -44,9 +44,9 @@ social:
 #- icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
- # icon_pack: ai
- # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dsiganos/
 - icon: github
   icon_pack: fab
   link: https://github.com/dsiganos
@@ -66,4 +66,18 @@ user_groups:
 #- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a software engineer specialising in cryptography and networking for embedded devices. I have have close-to-hardware experience. I am versed in many languages and have expert knowledge of C. I have implemented TCP/IP stacks and written networking applications and drivers.
+
+I am a quick learner, I have a no-nonsense attitude and deliver the goods.
+
+I am motivated, I don't need supervision, I can research for information and I am always willing to share my knowledge with anyone who is interested in learning.
+
+Specialties: internet security, Openssl, SSL, TLS, PKI, X.509 certificates, RSA, smartcard, EAP, IKE
+network protocols: NFS, FTP, TFTP, SMTP, POP3, TCP, UDP, IP, ARP, ICMP, DNS
+device drivers, Ethernet, PPP, SLIP, Wifi 802.11, SCSI, RS232
+Wireless technologies: Wifi, Bluetooth, LoRa
+multi-threaded development
+linux kernel, device drivers
+Real Time OS, VxWorks, Greenhill's Velocity (INTERGRITY kernel)
+C, C++, Java, Python, Tcl, bash shell scripting
+Development environments: GCC toolchain, Greenhill's MULTI, WindRiver's Tornado, Visual Studio
