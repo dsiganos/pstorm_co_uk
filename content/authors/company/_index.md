@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Dimitrios Siganos
+name: Packet Storm Ltd
 
 # Username (this should match the folder name)
 authors:
-- admin
+- company
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Software Consultant
+role: Software Services Consultancy
 
 # Organizations/Affiliations
 organizations: []
@@ -20,18 +20,19 @@ organizations: []
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Cryptography
-- Embedded Systems
-- Bluetooth
-- WiFi
-- RTOS
+expertise:
+- cryptography
+- networking
+- embedded systems
+- O/S
+- drivers
+- interfacing
+- applications
+- middleware
+- server-side software
 
-education:
-  courses:
-  - course: BEng in Information Systems Engineering
-    institution: Imperial College London
-    year: 1997
+#education:
+  #courses:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Founders
+#- Founders
 #- Visitors
 ---
 
