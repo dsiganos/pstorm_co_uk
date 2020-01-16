@@ -41,16 +41,16 @@ expertise:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dimitris@siganos.org'  # For a direct email link, use "mailto:example@example.com".
+  link: 'mailto:info@packet-storm.co.uk'  # For a direct email link, use "mailto:example@example.com".
 #- icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/GeorgeCushen
 #- icon: google-scholar
  # icon_pack: ai
  # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/dsiganos
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/dsiganos
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
