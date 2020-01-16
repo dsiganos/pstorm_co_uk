@@ -76,6 +76,8 @@
 
     <div class="row">
 
+      {{if $person.interests }}
+
       {{ with $person.interests }}
       <div class="col-md-5">
         <h3>{{ i18n "interests" | markdownify }}</h3>
@@ -86,6 +88,21 @@
         </ul>
       </div>
       {{ end }}
+
+      {{else}}
+
+      {{ with $person.expertise }}
+      <div class="col-md-5">
+        <h3>{{ i18n "expertise" | markdownify }}</h3>
+        <ul class="ul-interests">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{end}}
 
       {{ with $person.education }}
       <div class="col-md-7">

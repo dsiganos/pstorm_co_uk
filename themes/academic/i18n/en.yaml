@@ -75,6 +75,9 @@
 - id: interests
   translation: Interests
 
+- id: expertise
+  translation: Expertise
+
 - id: education
   translation: Education
 

@@ -67,4 +67,5 @@ user_groups:
 #- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Packet Storm is a software services consultancy with expertise in cryptography, networking, and embedded systems. It was founded by Dimitrios Siganos (Linkedin, CV) in 2006. We have experience at all levels of the software stack: O/S, drivers, hardware interfacing, applications, middleware, server-side software.
+We often collaborate with other companies to deliver larger projects. Packet Storm has collaborated in the past with: Hedera Innovations Ltd, Daniel Dodson of Curlio Ltd, and, Obimma Okafor of Aeonium Services Ltd.

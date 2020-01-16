@@ -25,6 +25,10 @@ interests:
 - Interest 1
 - Interest 2
 
+expertise:
+- Expertise 1
+- Expertise 2
+
 education:
   courses:
   - course: Title course 1
