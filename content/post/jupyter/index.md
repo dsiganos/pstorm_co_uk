@@ -3,8 +3,8 @@ title: Display Jupyter Notebooks with Academic
 subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
-- admin
-tags: []
+- company
+tags: ["test", "python"]
 categories: []
 date: "2019-02-05T00:00:00Z"
 lastMod: "2019-09-05T00:00:00Z"
@@ -90,7 +90,3 @@ For other tips, such as using math, see the guide on [writing content with Acade
 ```bash
 jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 ```
-
-## Example
-
-This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter
