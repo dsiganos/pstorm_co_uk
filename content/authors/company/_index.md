@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Packet Storm Ltd
+name: Packet Storm
 
 # Username (this should match the folder name)
 authors:
