@@ -25,8 +25,12 @@
       {{ if site.Params.avatar.gravatar }}
       <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="Avatar">
       {{ else if $avatar }}
-      {{ $avatar_image := $avatar.Fill "270x270 Center" }}
-      <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="Avatar">
+        {{if eq $author "company" }}
+          <img style="display: inline-block; margin: 0;" src="{{ $avatar.RelPermalink }}" alt="Avatar">
+        {{else}}
+          {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+          <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="Avatar">
+        {{end}}
       {{ end }}
 
       <div class="portrait-title">
