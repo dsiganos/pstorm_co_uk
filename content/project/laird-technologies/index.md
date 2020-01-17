@@ -1,6 +1,6 @@
 ---
 title: Laird Technologies
-summary: An example of using the in-built project page.
+summary: WiFi security
 tags:
 - WiFi
 - Linux
@@ -10,7 +10,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption:
   focal_point: Smart
 
 # links:
@@ -28,7 +28,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 - Aug 2012 – Dec 2013: Wifi, buildroot, linux, wpa_supplicant development.

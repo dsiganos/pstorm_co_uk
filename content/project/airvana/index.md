@@ -1,16 +1,16 @@
 ---
 title: Airvana
-summary: An example of using the in-built project page.
+summary: Smart cells
 tags:
 - Cryptography
-- Linux
+- WiFi
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 # links:
@@ -28,7 +28,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 - Mar 2010 – Jun 2010:
@@ -51,4 +51,5 @@ based on a custom PowerPC board with a DSP daughtercard and running
 Montavista Linux. Worked on an telephony turret device that supported SIP and
 RTP calls. Wrote a CDR collection and dispatch module for the turret. Wrote a
 CDR forwarding application that run on both Windows and Linux servers.
-Developed multiple network python scripts for automatic testing
+Developed multiple network python scripts for automatic testing of the devices.
+Wrote scripts for manufacturing processes and testing.

@@ -37,6 +37,17 @@ subtitle = ""
     name = "WiFi"
     tag = "WiFi"
   
+  [[content.filter_button]]
+    name = "IoT"
+    tag = "IoT"
+
+  [[content.filter_button]]
+    name = "Bluetooth"
+    tag = "Bluetooth"
+
+  [[content.filter_button]]
+    name = "Embedded"
+    tag = "Embedded"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
