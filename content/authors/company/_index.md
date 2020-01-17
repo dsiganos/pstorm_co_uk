@@ -41,7 +41,7 @@ expertise:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:info@packet-storm.co.uk'  # For a direct email link, use "mailto:example@example.com".
+  link: 'mailto:info@pstorm.co.uk'  # For a direct email link, use "mailto:example@example.com".
 #- icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/GeorgeCushen
