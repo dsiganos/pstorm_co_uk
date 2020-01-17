@@ -18,7 +18,7 @@ organizations: []
  # url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a software engineer specialising in cryptography and networking for embedded devices.
 
 interests:
 - Cryptography
@@ -41,9 +41,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:dimitris@siganos.org'  # For a direct email link, use "mailto:example@example.com".
-#- icon: twitter
- # icon_pack: fab
- # link: https://twitter.com/GeorgeCushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/dsiganos/
@@ -52,9 +49,9 @@ social:
   link: https://github.com/dsiganos
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -63,7 +60,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Founders
-#- Visitors
 ---
 
 I am a software engineer specialising in cryptography and networking for embedded devices. I have have close-to-hardware experience. I am versed in many languages and have expert knowledge of C. I have implemented TCP/IP stacks and written networking applications and drivers.
