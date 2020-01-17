@@ -59,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Founders
+- All
 ---
 
 I am a software engineer specialising in cryptography and networking for embedded devices. I have have close-to-hardware experience. I am versed in many languages and have expert knowledge of C. I have implemented TCP/IP stacks and written networking applications and drivers.

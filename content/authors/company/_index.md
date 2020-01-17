@@ -62,9 +62,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-#- Founders
-#- Visitors
+# user_groups:
+#- All
 ---
 
 Packet Storm is a software services consultancy with expertise in cryptography, networking, and embedded systems. It was founded by [Dimitrios Siganos](/authors/admin/) in 2006. We have experience at all levels of the software stack: O/S, drivers, hardware interfacing, applications, middleware, server-side software.
