@@ -66,5 +66,5 @@ email: ""
 #- All
 ---
 
-Packet Storm is a software services consultancy with expertise in cryptography, networking, and embedded systems. It was founded by [Dimitrios Siganos](/authors/admin/) in 2006. We have experience at all levels of the software stack: O/S, drivers, hardware interfacing, applications, middleware, server-side software.
+Packet Storm is a software services consultancy with expertise in cryptography, networking, and embedded systems. It was founded by [Dimitrios Siganos](/authors/a-dsiganos/) in 2006. We have experience at all levels of the software stack: O/S, drivers, hardware interfacing, applications, middleware, server-side software.
 We often collaborate with other companies to deliver larger projects. Packet Storm has collaborated in the past with: Hedera Innovations Ltd, Daniel Dodson of Curlio Ltd, and, Obimma Okafor of Aeonium Services Ltd.
