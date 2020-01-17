@@ -4,7 +4,7 @@ name: Konstantinos Bazoukis
 
 # Username (this should match the folder name)
 authors:
-- employee2
+- c-kbazoukis
 
 # Is this the primary user of the site?
 superuser: true

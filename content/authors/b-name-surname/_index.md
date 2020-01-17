@@ -4,7 +4,7 @@ name: PERSON NAME
 
 # Username (this should match the folder name)
 authors:
-- employee1
+- b-name-surname
 
 # Is this the primary user of the site?
 superuser: true

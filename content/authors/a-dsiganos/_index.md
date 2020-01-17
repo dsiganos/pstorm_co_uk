@@ -4,7 +4,7 @@ name: Dimitrios Siganos
 
 # Username (this should match the folder name)
 authors:
-- admin
+- a-dsiganos
 
 # Is this the primary user of the site?
 superuser: true
