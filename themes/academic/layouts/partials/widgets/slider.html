@@ -12,7 +12,7 @@
 <!-- Carousel slides wrapper -->
 <div class="carousel-inner">
   {{ range $index, $item := $page.Params.item }}
-  <div class="wg-hero dark carousel-item{{if eq $index 0}} active{{end}}" style="{{with $page.Params.height}}{{printf "height: %s;" . | safeCSS}}{{end}}
+  <div class="wg-hero carousel-item{{if eq $index 0}} active{{end}}" style="{{with $page.Params.height}}{{printf "height: %s;" . | safeCSS}}{{end}}
     {{ if $item.overlay_color }}
     background-color: {{ $item.overlay_color | default "transparent" }};
     {{ end }}
