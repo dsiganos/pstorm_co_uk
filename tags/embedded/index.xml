@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embedded | Packet Storm</title>
+    <link>/tags/embedded/</link>
+      <atom:link href="/tags/embedded/index.xml" rel="self" type="application/rss+xml" />
+    <description>Embedded</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Packet Storm Ltd 2011 - 2021</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue860e28d229b7c92bd38ab4efa6da1ea_865_512x512_fill_lanczos_center_2.png</url>
+      <title>Embedded</title>
+      <link>/tags/embedded/</link>
+    </image>
+    
+    <item>
+      <title>Green Energy Options</title>
+      <link>/project/green-energy-options/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/green-energy-options/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Dec 2010 – Jan 2011: Embedded Linux development. Qt, webkit, C++.&lt;/li&gt;
+&lt;li&gt;Aug 2010: Embedded Linux. Buildroot, bifferboard, networking, multicast.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
