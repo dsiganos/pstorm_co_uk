@@ -1,7 +1,7 @@
 ---
 title: Test post
 subtitle: Test subtitle
-summary: a one line summary
+summary: A one line test summary
 authors:
 - a-dsiganos
 tags: ["dummypost"]
